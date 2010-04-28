@@ -1,0 +1,86 @@
+PKCS #10 Certificate Request Information:
+	Version: 1
+	Subject: C=JP,O=K.K. Tibanne,OU=Network Management,L=Kugayama,ST=Toyko,CN=memol.ookoo.org
+	Subject Public Key Algorithm: RSA
+		Modulus (bits 4096):
+			f3:72:69:83:c1:6e:c5:a3:dd:8f:8d:d0:ca:65:38:c5
+			b0:89:f1:86:c5:c8:84:9e:f8:bd:be:1c:b3:8b:43:39
+			ec:33:dc:21:5e:51:f6:85:b1:56:63:d1:91:0c:b8:0c
+			33:10:8f:43:8d:b3:f3:ef:3b:6a:45:18:cc:d9:ee:41
+			6c:80:ca:39:5b:0d:eb:c0:6f:9b:e5:db:07:0e:64:da
+			34:1a:01:66:9c:e6:26:3e:53:09:73:10:26:45:0f:2f
+			3f:21:d3:2e:86:51:0a:fd:50:02:b1:2c:27:33:6f:1a
+			9e:c9:62:97:6e:1d:02:6e:53:3e:31:1a:ce:ab:55:d6
+			9a:f8:d4:24:17:1d:ed:fb:57:0e:83:96:87:6b:c1:b0
+			13:21:fd:60:7a:3b:62:30:c6:37:98:f3:bd:0d:af:e2
+			3c:08:f1:16:a9:01:a2:5a:f6:70:77:b1:df:63:eb:63
+			44:13:f9:42:e1:29:55:74:58:65:56:17:24:78:59:52
+			8a:c2:65:bd:95:b5:9c:a3:fa:fa:c8:bd:cd:fe:7b:df
+			e6:5d:60:3c:40:a1:1c:87:fa:8f:b6:14:24:2e:15:cc
+			73:0e:f9:38:da:ea:fa:22:4f:b5:0c:31:5e:4b:36:47
+			d7:86:18:b1:e0:a0:49:62:88:e3:86:80:95:41:68:c6
+			b9:ad:7e:96:46:7d:b9:13:e8:bc:62:a5:7d:b3:19:89
+			f6:7a:b7:eb:77:97:00:2e:c3:3f:02:4e:54:fa:13:a1
+			24:9d:98:f6:91:94:3b:00:0a:3f:10:49:73:e6:aa:8b
+			3d:ff:14:43:3c:d1:53:88:db:8f:a0:97:44:80:ec:12
+			15:a9:69:3e:46:20:33:5a:ab:14:88:a8:33:a2:33:90
+			68:f0:88:bd:5b:51:02:0c:1a:92:4f:7a:a6:4b:4a:21
+			4e:06:f9:4e:e9:62:ca:70:ba:b3:9b:ba:1c:56:7f:31
+			0b:1b:1c:eb:6f:40:fb:b1:8e:7a:88:17:ad:6a:64:2f
+			35:56:52:59:28:47:bc:2a:c5:66:56:3a:44:25:f1:3e
+			27:d3:ae:45:e6:30:3a:7e:33:d7:8f:f2:c6:b4:17:35
+			28:75:1a:9f:52:f7:84:19:d3:7b:fc:18:41:35:f3:05
+			53:b4:1d:a9:41:56:f6:29:d1:77:94:a9:64:b4:f6:28
+			13:16:73:b3:d0:db:ac:76:09:fe:f0:c4:c0:f0:e9:d4
+			00:33:35:03:37:4c:76:2b:50:f4:f3:a7:e8:2e:3d:70
+			4d:f0:ef:ca:d8:ec:b0:19:e0:c8:b5:9c:39:a2:47:1a
+			94:a3:ba:cf:68:48:42:0d:c1:4b:69:6f:c0:b5:56:97
+		Exponent:
+			01:00:01
+	Attributes:
+		Extensions:
+			Subject Alternative Name (not critical):
+				DNSname: memol.ookoo.org
+				RFC822name: contact@tibanne.com
+			Basic Constraints (critical):
+				Certificate Authority (CA): FALSE
+			Key Usage (critical):
+				Digital signature.
+			Key Purpose (not critical):
+				TLS WWW Client.
+				TLS WWW Server.
+Other Information:
+	Public Key Id:
+		3f9e7e4992684f86f33b52e41f8ceb834486a393
+
+-----BEGIN NEW CERTIFICATE REQUEST-----
+MIIFPzCCAykCAQAwfjELMAkGA1UEBhMCSlAxFTATBgNVBAoTDEsuSy4gVGliYW5u
+ZTEbMBkGA1UECxMSTmV0d29yayBNYW5hZ2VtZW50MREwDwYDVQQHEwhLdWdheWFt
+YTEOMAwGA1UECBMFVG95a28xGDAWBgNVBAMTD21lbW9sLm9va29vLm9yZzCCAh8w
+CwYJKoZIhvcNAQEBA4ICDgAwggIJAoICAPNyaYPBbsWj3Y+N0MplOMWwifGGxciE
+nvi9vhyzi0M57DPcIV5R9oWxVmPRkQy4DDMQj0ONs/PvO2pFGMzZ7kFsgMo5Ww3r
+wG+b5dsHDmTaNBoBZpzmJj5TCXMQJkUPLz8h0y6GUQr9UAKxLCczbxqeyWKXbh0C
+blM+MRrOq1XWmvjUJBcd7ftXDoOWh2vBsBMh/WB6O2IwxjeY870Nr+I8CPEWqQGi
+WvZwd7HfY+tjRBP5QuEpVXRYZVYXJHhZUorCZb2VtZyj+vrIvc3+e9/mXWA8QKEc
+h/qPthQkLhXMcw75ONrq+iJPtQwxXks2R9eGGLHgoEliiOOGgJVBaMa5rX6WRn25
+E+i8YqV9sxmJ9nq363eXAC7DPwJOVPoToSSdmPaRlDsACj8QSXPmqos9/xRDPNFT
+iNuPoJdEgOwSFalpPkYgM1qrFIioM6IzkGjwiL1bUQIMGpJPeqZLSiFOBvlO6WLK
+cLqzm7ocVn8xCxsc629A+7GOeogXrWpkLzVWUlkoR7wqxWZWOkQl8T4n065F5jA6
+fjPXj/LGtBc1KHUan1L3hBnTe/wYQTXzBVO0HalBVvYp0XeUqWS09igTFnOz0Nus
+dgn+8MTA8OnUADM1AzdMditQ9POn6C49cE3w78rY7LAZ4Mi1nDmiRxqUo7rPaEhC
+DcFLaW/AtVaXAgMBAAGggYAwfgYJKoZIhvcNAQkOMXEwbzAvBgNVHREEKDAmgg9t
+ZW1vbC5vb2tvby5vcmeBE2NvbnRhY3RAdGliYW5uZS5jb20wDAYDVR0TAQH/BAIw
+ADAPBgNVHQ8BAf8EBQMDB4AAMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+ATALBgkqhkiG9w0BAQUDggIBAGdGTfcFwW42ApN0Px+buXDXClunSrM1V7laTliL
+JTucEiu6v61qwBnn06jW4zMP+vqFlaqANTPgF8MONP2bswZAcg2csd14KO9GDsLo
+4TsQcC0XkqTqCF+89voNazwWcjPCrk3Krmd9w1kt0aTUkU02obgmzONIJzdaJyt/
+ZpSyRkHHPQ9hOJ+V947fmi1xfLgztHjEYlQ/+1w1x+s3bUKkrvoBmILx0W7u7eEL
+DPimGSiP6MG0byq7H+4nPBX8ZyqfutWD4cUNd6Gx5ZZhhKHwkMmF/Q3w3gbO17mQ
+ggD55USJYFSkCOU+X3MYYUruoSKOX3HSmJ/CBz00dh0YRKwHOEAUj75+jgNW8xsd
+2bjADdc1boxmsb7AEa9EuAwwECaTWhOzCxtHo5ybEeOnwhpobFl1US6ow5NxwV8x
+QBmyueJ0J5mA+VY71VWPrxi8bSnKxCmOYQEhyB+1D2qXgmZkVMsu9rM5Q+lMerjB
+jm99v6eKfDxGDngvmVKy7JygbjBF4R2iyiFdSK4ZrLD0lvCG0LsLpnqFSgjVi1YL
+dXS1pqveCNcg9FzYrM7wckAn/L8tWOYzNYXcDZKfkZ1gZs1BIbxNrJZCBVv10wM/
+4iIGoIWTXFt/EEofZMfz2yiv4aZM+p8FfCyicJGqD4Wj+IpnOejg1E071pUQPh21
+mxhI
+-----END NEW CERTIFICATE REQUEST-----
